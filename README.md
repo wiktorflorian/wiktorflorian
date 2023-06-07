@@ -7,7 +7,7 @@
   </i>
 </p>
 
-- 🌱 I’m currently learning NLTK
+- 🌱 I’m currently learning spaCy
 - 📫 How to reach me: wiktorflorianwf@gmail.com
 
 ### Languages
