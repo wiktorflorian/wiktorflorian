@@ -7,8 +7,9 @@
   </i>
 </p>
 
-- 🌱 I’m currently learning spaCy
-- 📫 How to reach me: wiktorflorianwf@gmail.com
++ :construction_worker: currently in operation, synchronises data from various sources SwaggerHub API with Oauth2, Google API's, various exel, csv files from both contractors and inside the company. In addition to this, data analysis and new employee training.
++ 🌱 I’m currently playing with Tasks (Personal repo with various tasks)
++ 📫 How to reach me: wiktorflorianwf@gmail.com
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wiktorflorian)
@@ -24,6 +25,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/wiktorflorian)
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/wiktorflorian)
 [![NLTK](https://img.shields.io/badge/NLTK-%23ff69b4.svg?style=for-the-badge&logo=NLTK&logoColor=black)](https://github.com/wiktorflorian)
+[![spaCy](https://img.shields.io/badge/spaCy-09A3D5.svg?style=for-the-badge&logo=spaCy&logoColor=white)](https://github.com/wiktorflorian)
 
 
 
