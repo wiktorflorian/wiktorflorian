@@ -8,7 +8,7 @@
 </p>
 
 + :construction_worker: currently in operation, synchronises data from various sources SwaggerHub API with Oauth2, Google API's, various exel, csv files from both contractors and inside the company. In addition to this, data analysis and new employee training.
-+ 🌱 I’m currently playing with Tasks (Personal repo with various tasks)
++ 🌱 I’m currently learning PySpark.
 + 📫 How to reach me: wiktorflorianwf@gmail.com
 
 ### Languages
