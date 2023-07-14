@@ -2,13 +2,13 @@
 
 <p align="center">
   <i>
-      I am Wiktor and currently I am expoloring NLP related topics and libraries.
+      I am Wiktor and currently I am expoloring asynchronous programming and other topics related to data extraction and transformation.
       I am tracking my learning path and alongside that i am doing my personal projects and sometimes tasks from various sources.
   </i>
 </p>
 
-+ :construction_worker: currently in operation, synchronises data from various sources SwaggerHub API with Oauth2, Google API's, various exel, csv files from both contractors and inside the company. In addition to this, data analysis and new employee training.
-+ 🌱 I’m currently learning PySpark.
++ :construction_worker: currently in operation,analysing data from European Open Science Cloud, synchronises data from various sources SwaggerHub API with Oauth2, Google API's, various exel, csv files from both contractors and inside the company. In addition to this, data analysis and new employee training.
++ 🌱 I’m currently learning about asunchronous programming.
 + 📫 How to reach me: wiktorflorianwf@gmail.com
 
 ### Languages
@@ -26,7 +26,7 @@
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/wiktorflorian)
 [![NLTK](https://img.shields.io/badge/NLTK-%23ff69b4.svg?style=for-the-badge&logo=NLTK&logoColor=black)](https://github.com/wiktorflorian)
 [![spaCy](https://img.shields.io/badge/spaCy-09A3D5.svg?style=for-the-badge&logo=spaCy&logoColor=white)](https://github.com/wiktorflorian)
-
+[![PySpark](https://img.shields.io/badge/PySpark-d56809.svg?style=for-the-badge&logo=PySpark&logoColor=white)](https://github.com/wiktorflorian)
 
 
 ## OS
