@@ -1,15 +1,35 @@
-<h1 align="center"> Nice to see you there 👋 </h1>
+<h1 align="center"> # Welcome! I'm Wiktor, Data Engineer & Scientist 👋 </h1>
 
+## About Me
 <p align="center">
   <i>
-      I am Wiktor and currently I am expoloring asynchronous programming and other topics related to data extraction and transformation.
-      I am tracking my learning path and alongside that i am doing my personal projects and sometimes tasks from various sources.
+      An IT specialist, programmer specializing in Data Engineering, Data Science and Data Analytics.
+      I specialize in data processing and analytics, optimizing data workflows and enhance analytical capabilities in complex data environments.
   </i>
 </p>
 
-+ :construction_worker: currently in operation,analysing data from European Open Science Cloud, synchronises data from various sources SwaggerHub API with Oauth2, Google API's, various exel, csv files from both contractors and inside the company. In addition to this, data analysis and new employee training.
-+ 🌱 I’m currently learning about asunchronous programming.
-+ 📫 How to reach me: wiktorflorianwf@gmail.com
+### 🔭 Current Projects
+- **System Enhancements:** Developing and implementing solutions for dynamic data updates in document-based databases.
+- **Data Transformation Initiatives:** Leading efforts to enhance metadata analysis and optimize data transformation processes.
+
+### 🌟 Recent Projects
+- **Conference Organisation:** Coordinated and managed the Polish Open Science Conference 2024, overseeing participant registration, website management, and workshop delivery.
+- **System Enhancements:** Implemented dynamic update capabilities in a document-based database system, improving real-time data relationship management.
+- **Adding Relationships:** Developed an algorithm to determine and add relationships between documents in a non-relational database system, enhancing data connectivity.
+- **Adding New Data Types:** Analyzed and processed incoming data dumps, created and integrated new metadata schemas to enhance data usability and integration.
+
+
+### 🛠 Technical Experience
+- As a data analyst and developer, I provide technical consultations and create tools for data analysis and performance management using Python, SQL, and VBA.
+
+### 🌱 I’m currently learning
+- Expanding my knowledge about deep learning and generative modeling, while revisiting TensorFlow.
+- Developing my skills in writing unit tests and learning the PyTest framework to enhance code reliability and maintainability.
+
+### 📫 How to reach me:
+- Email: wiktorflorianwf@gmail.com
+
+Feel free to reach out if you have questions or are interested in collaborating on projects!
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wiktorflorian)
@@ -44,3 +64,5 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wiktorflorian&theme=dracula" />
   </a>
 </p>
+
+![Wiktor's stats](https://github-readme-stats.vercel.app/api?username=wiktorflorian&count_private=true&show_icons=true&theme=radical)
