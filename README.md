@@ -64,5 +64,3 @@ Feel free to reach out if you have questions or are interested in collaborating 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wiktorflorian&theme=dracula" />
   </a>
 </p>
-
-![Wiktor's stats](https://github-readme-stats.vercel.app/api?username=wiktorflorian&count_private=true&show_icons=true&theme=radical)
