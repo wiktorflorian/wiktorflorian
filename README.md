@@ -31,26 +31,28 @@
 
 Feel free to reach out if you have questions or are interested in collaborating on projects!
 
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wiktorflorian)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wiktorflorian)
+### 🛠️ Tools
+<a href="https://www.python.org" target="_blank"><img align="left" alt="python" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/python.svg"></a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img align="left" alt="SQL" height ="55px" src="https://github.com/wiktorflorian/wiktorflorian/blob/main/images/sql.svg"></a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank"><img align="left" alt="Microsoft SQL Server" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/microsoft_sql_server.svg"></a>
+<a href="https://pandas.pydata.org" target="_blank"><img align="left" alt="pandas" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/pandas.svg"></a>
+<a href="https://matplotlib.org" target="_blank"><img align="left" alt="matplotlib" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/matplotlib.svg"></a>
+<a href="https://numpy.org" target="_blank"><img align="left" alt="NumPy" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/numpy.svg"></a>
+<a href="https://spark.apache.org/docs/latest/api/python/index.html#" target="_blank"><img align="left" alt="PySpark" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/pyspark.svg"></a>
+<a href="https://solr.apache.org" target="_blank"><img align="left" alt="Solr" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/solr.svg"></a>
+<a href="https://www.tensorflow.org" target="_blank"><img align="left" alt="TensorFlow" height ="55px" src="https://github.com/wiktorflorian/wiktorflorian/blob/main/images/tensorflow.svg"></a>
+<a href="https://scikit-learn.org/stable/" target="_blank"><img align="left" alt="scikit-learn" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/scikit_learn.svg"></a>
+<a href="https://seaborn.pydata.org" target="_blank"><img align="left" alt="seaborn" height ="55px" src="https://github.com/wiktorflorian/wiktorflorian/blob/main/images/seaborn.png"></a>
+<a href="https://pytorch.org" target="_blank"><img align="left" alt="PyTorch" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/pytorch.svg"></a>
+<a href="https://fastapi.tiangolo.com" target="_blank"><img align="left" alt="FastAPI" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/fastapi.svg"></a>
+<a href="https://www.docker.com" target="_blank"><img align="left" alt="docker" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/docker.svg"></a>
+<a href="https://spacy.io" target="_blank"><img align="left" alt="spaCy" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/spacy.svg"></a>
+<a href="https://www.nltk.org" target="_blank"><img align="left" alt="NLTK" height ="55px" src="https://github.com/wiktorflorian/wiktorflorian/blob/main/images/nltk.png"></a>
+<a href="https://scipy.org" target="_blank"><img align="left" alt="SciPy" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/scipy.svg"></a>
+<a href="https://www.r-project.org" target="_blank"><img align="left" alt="R" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/r_logo.svg"></a>
 
-
-## ML/DS Libraries
-[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/wiktorflorian)
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/wiktorflorian)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://github.com/wiktorflorian)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/wiktorflorian)
-[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/wiktorflorian)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/wiktorflorian)
-[![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/wiktorflorian)
-[![NLTK](https://img.shields.io/badge/NLTK-%23ff69b4.svg?style=for-the-badge&logo=NLTK&logoColor=black)](https://github.com/wiktorflorian)
-[![spaCy](https://img.shields.io/badge/spaCy-09A3D5.svg?style=for-the-badge&logo=spaCy&logoColor=white)](https://github.com/wiktorflorian)
-[![PySpark](https://img.shields.io/badge/PySpark-d56809.svg?style=for-the-badge&logo=PySpark&logoColor=white)](https://github.com/wiktorflorian)
-
-
-## OS
-[![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/wiktorflorian)
+<br></br>
+<br></br>
 
 ## Stats
 <p align="center">
