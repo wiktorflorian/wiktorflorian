@@ -1,4 +1,4 @@
-<h1 align="center"> # Welcome! I'm Wiktor, Data Engineer & Scientist 👋 </h1>
+<h1 align="center"> # Welcome! I'm Wiktor👋 </h1>
 
 ## About Me
 <p align="center">
@@ -32,27 +32,79 @@
 Feel free to reach out if you have questions or are interested in collaborating on projects!
 
 ### 🛠️ Tools
-<a href="https://www.python.org" target="_blank"><img align="left" alt="python" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/python.svg"></a>
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img align="left" alt="SQL" height ="55px" src="https://github.com/wiktorflorian/wiktorflorian/blob/main/images/sql.svg"></a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank"><img align="left" alt="Microsoft SQL Server" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/microsoft_sql_server.svg"></a>
-<a href="https://pandas.pydata.org" target="_blank"><img align="left" alt="pandas" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/pandas.svg"></a>
-<a href="https://matplotlib.org" target="_blank"><img align="left" alt="matplotlib" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/matplotlib.svg"></a>
-<a href="https://numpy.org" target="_blank"><img align="left" alt="NumPy" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/numpy.svg"></a>
-<a href="https://spark.apache.org/docs/latest/api/python/index.html#" target="_blank"><img align="left" alt="PySpark" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/pyspark.svg"></a>
-<a href="https://solr.apache.org" target="_blank"><img align="left" alt="Solr" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/solr.svg"></a>
-<a href="https://www.tensorflow.org" target="_blank"><img align="left" alt="TensorFlow" height ="55px" src="https://github.com/wiktorflorian/wiktorflorian/blob/main/images/tensorflow.svg"></a>
-<a href="https://scikit-learn.org/stable/" target="_blank"><img align="left" alt="scikit-learn" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/scikit_learn.svg"></a>
-<a href="https://seaborn.pydata.org" target="_blank"><img align="left" alt="seaborn" height ="55px" src="https://github.com/wiktorflorian/wiktorflorian/blob/main/images/seaborn.png"></a>
-<a href="https://pytorch.org" target="_blank"><img align="left" alt="PyTorch" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/pytorch.svg"></a>
-<a href="https://fastapi.tiangolo.com" target="_blank"><img align="left" alt="FastAPI" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/fastapi.svg"></a>
-<a href="https://www.docker.com" target="_blank"><img align="left" alt="docker" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/docker.svg"></a>
-<a href="https://spacy.io" target="_blank"><img align="left" alt="spaCy" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/spacy.svg"></a>
-<a href="https://www.nltk.org" target="_blank"><img align="left" alt="NLTK" height ="55px" src="https://github.com/wiktorflorian/wiktorflorian/blob/main/images/nltk.png"></a>
-<a href="https://scipy.org" target="_blank"><img align="left" alt="SciPy" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/scipy.svg"></a>
-<a href="https://www.r-project.org" target="_blank"><img align="left" alt="R" height ="55px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/r_logo.svg"></a>
 
-<br></br>
-<br></br>
+<table align="center" width="100%" bgcolor="#f5f5f5">
+  <tr>
+    <td align="center" width="14.2%">
+      <a href="https://www.python.org" target="_blank"><img alt="Python" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/python.svg"></a>
+    </td>
+    <td align="center" width="14.2%">
+      <a href="https://spark.apache.org/docs/latest/api/python/index.html#" target="_blank"><img alt="PySpark" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/pyspark.svg"></a>
+    </td>
+    <td align="center" width="14.2%">
+      <a href="https://python-visualization.github.io/folium/" target="_blank"><img alt="Folium" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/folium.png"></a>
+    </td>
+    <td align="center" width="14.2%">
+      <a href="https://pandas.pydata.org" target="_blank"><img alt="Pandas" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/pandas.svg"></a>
+    </td>
+    <td align="center" width="14.2%">
+      <a href="https://plotly.com/python/" target="_blank"><img alt="Plotly" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/plotly.png"></a>
+    </td>
+    <td align="center" width="14.2%">
+      <a href="https://numpy.org" target="_blank"><img alt="NumPy" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/numpy.svg"></a>
+    </td>
+    <td align="center" width="14.2%">
+      <a href="https://matplotlib.org" target="_blank"><img alt="Matplotlib" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/matplotlib.svg"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://scikit-learn.org/stable/" target="_blank"><img alt="Scikit-learn" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/scikit_learn.svg"></a>
+    </td>
+    <td align="center">
+      <a href="https://seaborn.pydata.org" target="_blank"><img alt="Seaborn" height="45px" src="https://github.com/wiktorflorian/wiktorflorian/blob/main/images/seaborn.png"></a>
+    </td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img alt="SQL" height="45px" src="https://github.com/wiktorflorian/wiktorflorian/blob/main/images/sql.svg"></a>
+    </td>
+    <td align="center">
+      <a href="https://solr.apache.org" target="_blank"><img alt="Solr" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/solr.svg"></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/huggingface/agent-development-kit" target="_blank"><img alt="Agent-development-kit" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/agent-development-kit.png"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.tensorflow.org" target="_blank"><img alt="TensorFlow" height="45px" src="https://github.com/wiktorflorian/wiktorflorian/blob/main/images/tensorflow.svg"></a>
+    </td>
+    <td align="center">
+      <a href="https://pytorch.org" target="_blank"><img alt="PyTorch" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/pytorch.svg"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://fastapi.tiangolo.com" target="_blank"><img alt="FastAPI" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/fastapi.svg"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com" target="_blank"><img alt="Docker" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/docker.svg"></a>
+    </td>
+    <td align="center">
+      <a href="https://spacy.io" target="_blank"><img alt="spaCy" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/spacy.svg"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.nltk.org" target="_blank"><img alt="NLTK" height="45px" src="https://github.com/wiktorflorian/wiktorflorian/blob/main/images/nltk.png"></a>
+    </td>
+    <td align="center">
+      <a href="https://scipy.org" target="_blank"><img alt="SciPy" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/scipy.svg"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.r-project.org" target="_blank"><img alt="R" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/r_logo.svg"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank"><img alt="SQL Server" height="45px" src="https://raw.githubusercontent.com/wiktorflorian/wiktorflorian/main/images/microsoft_sql_server.svg"></a>
+    </td>
+  </tr>
+</table>
+
 <br></br>
 <br></br>
 
